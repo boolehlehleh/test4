@@ -1,7 +1,4 @@
 one
 hub-two
-<<<<<<< HEAD
 two in A's local
-=======
 hub-three
->>>>>>> 249eeb54870239df1a01b7c98a62e32fd3adc1d0
